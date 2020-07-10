@@ -26,7 +26,7 @@ Nav2d.defaultProps = {
 };
 ```
 
-## Radom things
+## Random things
 
 Since neither `nav2djs` or `ros2djs` implements a CommonJS interface, I manually implement the interface for them.
 
